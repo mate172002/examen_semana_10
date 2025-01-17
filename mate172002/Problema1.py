@@ -5,6 +5,7 @@ class NodoTarea:
         self.anterior = None
         self.siguiente = None
 
+
 class ListaTareasDoblementeEnlazada:
     def __init__(self):
         self.cabeza = None
