@@ -85,5 +85,6 @@ class ListaTareasDoblementeEnlazada:
 lista_tareas = ListaTareasDoblementeEnlazada()
 lista_tareas.generar_tareas_recursivo(1, 5, "Tarea")
 
+
 print("Avanzando:")
 lista_tareas.avanzar()
